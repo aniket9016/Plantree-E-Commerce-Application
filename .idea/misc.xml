@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/btn_drw.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/btn_drw2.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/btndrawable.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/buttons.xml" value="0.2075" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/carddrawable.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/cardstyle.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/input_design.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/prd_drawable.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/txtstyle.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/txtstyle2.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/txtstyle3.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/drawable/txtstyle4.xml" value="0.215" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_about.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_admin_add_new_product.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_admin_category.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_admin_maintain_products.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_admin_new_orders.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_admin_user_product.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_cart.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_confirm_final_order.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_fertilizer.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_home.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_login.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_main.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_payment.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_plants.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_pots.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_product_details.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_register.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_reset_password.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_search_product.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_seeds.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_settings.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/activity_terms.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/app_bar_home.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/cart_list_item.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/content_home.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/fragment_fertilizer.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/fragment_plant.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/fragment_pots.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/fragment_seeds.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/loginorregisterdialog.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/nav_header_home.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/orders_layout_item.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/product_item_layout.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/layout/termslayout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/menu/activity_home_drawer.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/BHAVIK SUTHAR/OneDrive/Documents/MY PROGRAMS/Projects/Mero_Mall_Complete_eCommerce_Android_Application/app/src/main/res/menu/home.xml" value="0.24739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617531734075",
+    "firebase_url": "https://plantree-88157-default-rtdb.firebaseio.com",
+    "project_id": "plantree-88157",
+    "storage_bucket": "plantree-88157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617531734075:android:90a747941b13209548841e",
+        "android_client_info": {
+          "package_name": "com.weare.plantree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617531734075-8p0u8t821l4s3r997hfm8ubh6sgfe20j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUj4OJUTWCSjEaUcKYw8YeNfTePUoKYHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617531734075-8p0u8t821l4s3r997hfm8ubh6sgfe20j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

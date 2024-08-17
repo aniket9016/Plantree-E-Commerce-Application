@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Plantree</string>
+    <string name="app_moto">We Are Plantree, a Plant based Ecommerce App Startup with a motive to make India Green and make feel every Indian about greenery and power of plants. So We in continues practice to make this idea a better reality with our hops and motivation. So we need help of every Indian people to make India a better greenery country.</string>
+    <string name="log_in_as_admin">Login as admin</string>
+    <string name="login_text">\"Login \"</string>
+    <string name="enter_phone_number_text">please enter phone number</string>
+    <string name="enter_password_text">please enter password</string>
+    <string name="please_wait_text">please wait..processing</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tc1">Welcome to Plantree! These terms and conditions outline the rules and regulations for the use of Plantree\'s App, By accessing this App we assume you accept these terms and conditions. Do not continue to use Plantree if you do not agree to take all of the terms and conditions stated on this Screen.</string>
+    <string name="tc2">Unless otherwise stated, Plantree and/or its licensors own the intellectual property rights for all material on Plantree. All intellectual property rights are reserved. You may access this from Plantree for your own personal use subjected to restrictions set in these terms and conditions.Parts of this App offer an opportunity for users to Buy the different types of plants and also to sell the plants at a time. Plantree does not filter, edit, publish or review Comments prior to their presence on the App. Comments do not reflect the views and opinions of Plantree,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Plantree shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.Plantree reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions</string>
+    <string name="privacy">This App Collect the information of users like their Name, Phone Numbers, their address. But This App cant Misuse the users information. It is Our Responsibility to maintain users information and make that their information is safe.</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
